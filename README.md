@@ -1,4 +1,4 @@
-<h1>Node.js integration with TS. <img src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg" width="75"/></h1>
+<h1>Node.js integration with TS.</h1>
 This is a very basic example that I used to integrate TypeScript with a Node.js and Express api.
 
 <br/>
